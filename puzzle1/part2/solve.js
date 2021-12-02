@@ -5,8 +5,8 @@ const fs = require('fs')
  */
 function main() {
 	fs.readFile(
-		//'data/input/example_puzzle_1',
-		'data/input/puzzle_1',
+		//'../example_puzzle_1',
+		'puzzle1/puzzle1',
 		'utf8' , (err, data) => {
 		if (err) {
 		  console.error(err)
