@@ -1,11 +1,11 @@
 {
-  "name": "Advent Of Code 21",
+  "name": "AdventOfCode21",
   "version": "1.0.0",
   "description": "Code for solution of AdventOfCode21's puzzles.",
   "main": "main.js",
   "bin": "main.js",
   "dependencies": {
-    "npm": "^6.4.1",
+    "npm": "^6.4.1"
   },
   "targets": [
     "node10"
